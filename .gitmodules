@@ -1,3 +1,6 @@
 [submodule "bookly-backend"]
 	path = bookly-backend
 	url = https://github.com/geekyharsh05/bookly-backend
+[submodule "bookly-app"]
+	path = bookly-app
+	url = https://github.com/geekyharsh05/bookly-app
